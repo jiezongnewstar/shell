@@ -58,7 +58,6 @@ echo ""
 echo ""
 echo ""
 #有返回值函数
-
 function xibei3(){
 	read -p "请随便输入......" input
 	echo ""
